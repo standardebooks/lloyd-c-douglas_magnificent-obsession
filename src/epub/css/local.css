@@ -4,3 +4,7 @@
 #chapter-19 blockquote p{
 	text-transform: uppercase;
 }
+
+q{
+	font-style: italic;
+}
