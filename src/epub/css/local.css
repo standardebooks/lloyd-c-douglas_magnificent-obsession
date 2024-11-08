@@ -7,7 +7,7 @@
 }
 
 #chapter-19 blockquote p{
-	text-transform: uppercase;
+	font-variant: all-small-caps;
 }
 
 q{
