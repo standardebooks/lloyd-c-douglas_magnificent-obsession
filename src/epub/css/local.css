@@ -1,6 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#chapter-5 blockquote p{
+	font-variant: all-small-caps;
+	text-align: center;
+}
+
 #chapter-19 blockquote p{
 	text-transform: uppercase;
 }
