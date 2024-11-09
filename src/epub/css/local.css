@@ -84,3 +84,7 @@ figcaption{
 	font-style: italic;
 	margin: 1em;
 }
+
+[epub|type~="z3998:recipient"]{
+	font-style: italic;
+}
