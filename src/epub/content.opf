@@ -40,9 +40,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008108880</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The secret obsession of a brain surgeon is discovered and adopted by the wealthy young man whose rescue led to his death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Robert “Bobby” Merrick, a college-aged only child from a wealthy Michigan family, is neither expected nor inclined to do anything with his life except “loaf.” But when he indirectly causes the death of an esteemed Detroit brain surgeon, Bobby decides to change his ways dramatically to compensate for his role in the tragedy. In the course of this he discovers the deceased surgeon’s secret journal, which reveals a spiritual obsession that will transform Bobby’s life even further.&lt;/p&gt;
+			&lt;p&gt;Lutheran Christian minister &lt;a href="https://standardebooks.org/ebooks/lloyd-c-douglas"&gt;Lloyd C. Douglas&lt;/a&gt; began working on &lt;i&gt;Magnificent Obsession&lt;/i&gt;, his first novel, at the age of fifty. It was a commercial failure when first published among works of religious literature, but became a bestseller eighteen months later when marketed as a romance novel. In the years that followed Douglas received many letters from readers about the novel’s spiritual ideas; this compelled him to write a prequel, entitled &lt;i&gt;Dr. Hudson’s Secret Journal&lt;/i&gt;, which presents in full the fictional journal featured in the original novel.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Magnificent Obsession&lt;/i&gt; combines standard tropes of romance with an unusual reinterpretation of the message of the Christian gospels. In the preface to &lt;i&gt;Dr. Hudson’s Secret Journal&lt;/i&gt;, Douglas wrote that its main theme “derived from a little handful of verses midway of the Sermon on the Mount” in the Gospel of Matthew. It explores the possibility of self-interested altruism and the compatibility of religious zeal with a scientific worldview. While the novel has never been admired by literary critics, the popularity it once achieved testifies to the enduring appeal of the notion of a hidden formula for success in human life.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks04/0400631h.html</dc:source>
