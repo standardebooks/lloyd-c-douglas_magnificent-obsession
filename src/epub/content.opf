@@ -49,7 +49,6 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks04/0400631h.html</dc:source>
 		<dc:source>https://archive.org/details/magnificentobses0000lloy_g1y4</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Magnificent_Obsession</meta>
