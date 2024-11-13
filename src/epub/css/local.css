@@ -6,8 +6,17 @@
 	text-align: center;
 }
 
-#chapter-7 blockquote:nth-of-type(3) p,
-#chapter-7 blockquote:last-of-type p{
+#chapter-7 table{
+	margin: 1em 2.5em; /* Same as `<blockquote>` in `core.css`. */
+}
+
+#chapter-7 table td{
+	min-width: 1ex;
+	text-align: center;
+}
+
+#chapter-7 blockquote:nth-of-type(1),
+#chapter-7 blockquote:nth-of-type(2){
 	text-transform: uppercase;
 }
 
