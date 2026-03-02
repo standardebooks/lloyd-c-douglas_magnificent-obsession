@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-19.xhtml">
-		<ignore>
-			<code>t-030</code>
+		<ignore code="t-030">
 			<reason>Abbreviation occurs within telegram where periods are unavailable.</reason>
 		</ignore>
 	</file>
