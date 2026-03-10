@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-19.xhtml">
 		<ignore code="t-030">
+			<line>54</line>
 			<reason>Abbreviation occurs within telegram where periods are unavailable.</reason>
 		</ignore>
 	</file>
