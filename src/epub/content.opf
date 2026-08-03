@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/lloyd-c-douglas/magnificent-obsession</dc:identifier>
 		<dc:date>2025-01-01T09:01:00Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008108880</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A brain surgeon’s secret obsession is discovered and adopted by the wealthy young man involved in his death.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A brain surgeon’s secret obsession is discovered and adopted by the wealthy young man involved in his death.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Robert “Bobby” Merrick, a college-aged only child from a wealthy Michigan family, is neither expected nor inclined to do anything with his life except “loaf.” But when he indirectly causes the death of an esteemed Detroit brain surgeon, Bobby decides to change his ways dramatically to compensate for his role in the tragedy. In the course of this he discovers the deceased surgeon’s secret journal, which reveals a spiritual obsession that will transform Bobby’s life even further.&lt;/p&gt;
 			&lt;p&gt;Lutheran Christian minister &lt;a href="https://standardebooks.org/ebooks/lloyd-c-douglas"&gt;Lloyd C. Douglas&lt;/a&gt; began working on &lt;i&gt;Magnificent Obsession&lt;/i&gt;, his first novel, at the age of fifty. It was initially marketed as a work of religious literature, but was a commercial failure until eighteen months later when it was instead marketed as a romance novel. In the years that followed, Douglas received many letters from readers about the novel’s spiritual ideas; this compelled him to write a prequel, entitled &lt;i&gt;Dr. Hudson’s Secret Journal&lt;/i&gt;, which presents in full the fictional journal featured in this novel.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Magnificent Obsession&lt;/i&gt; combines standard tropes of romance with an unusual reinterpretation of the message of the Christian gospels. In the preface to &lt;i&gt;Dr. Hudson’s Secret Journal&lt;/i&gt;, Douglas wrote that its main theme “derived from a little handful of verses midway of the Sermon on the Mount” in the Gospel of Matthew. It explores the possibility of self-interested altruism and the compatibility of religious zeal with a scientific worldview. While the novel has never been admired by critics, the popularity it once achieved testifies to the enduring appeal of the notion of a hidden formula for success in life.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks04/0400631h.html</dc:source>
 		<dc:source>https://archive.org/details/magnificentobses0000lloy_g1y4</dc:source>
